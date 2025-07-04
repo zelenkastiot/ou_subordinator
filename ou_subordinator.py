@@ -1,7 +1,7 @@
 """
 
     Created on 09-Apr-2022
-    Authors: Kiril Zelenkovski, Petar Jolakoski, Pece Trajanovski
+    Authors: Kiril Zelenkovski
 
     Subordinator for calculation of CTRWs (O-U process)
 
